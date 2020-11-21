@@ -1,5 +1,9 @@
 # Tutorial
 
+Let's say resistor whose resistance you want to decode is ths one:
+
+![resistor](https://raw.githubusercontent.com/petrst/HP35s-Resistor-Color-Code-Calculator/main/screenshots/resistor.png)
+
 1. Run the program
 
 ![screenshot1](https://raw.githubusercontent.com/petrst/HP35s-Resistor-Color-Code-Calculator/main/screenshots/screenshot-1.png)
