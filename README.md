@@ -1,4 +1,22 @@
-# Tutorial
+This is a simple 
+[resistor color code](https://en.wikipedia.org/wiki/Electronic_color_code) 
+decoder for HP35s calculator.
+It supports 4, 5 or 6 bands.
+The program displays simple menu with abbreviated colro names. 
+
+![screenshot1](https://raw.githubusercontent.com/petrst/HP35s-Resistor-Color-Code-Calculator/main/screenshots/screenshot-2.png)
+
+To select color of a band
+press number corresponding to the color and confirm by [R/S].
+To display next part of the menu press [R/S] without any number.
+To calculate the value pass through all the menus without entering
+any number [R/S][R/S][R/S].
+
+The result is pushed to X stack register and sldo pushed to  R register.
+
+Enjoy!
+
+# Step-by-step Tutorial
 
 Let's say resistor whose resistance you want to decode is ths one:
 
